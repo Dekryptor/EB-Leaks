@@ -16,6 +16,10 @@
       "MD5": "47a31c57f9586ba8140f93c30c72f375",
       "Download": "https://raw.github.com/Dekryptor/LeakElo/master/EloBuddy.Sandbox.dll"
     },
+    "System\\EloBuddy.Fedora.dll": {
+    "MD5": "f878d212e41691db1d16212fb6688d72",
+    "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.Fedora.dll"
+    },
     "System\\EloBuddy.SDK.dll": {
       "MD5": "cf866bba3f4d606950ba185285fa49f1",
       "Download": "https://raw.github.com/EloBuddy/EloBuddy.Dependencies/master/System/EloBuddy.SDK.dll"
