@@ -190,6 +190,71 @@
       "changes": [
         "updated for 7.5"
       ]
+    },
+    {
+      "md5": [
+        "46505666972028655802387e810117d3"
+      ],
+      "build": "611",
+      "changes": [
+        "updated for 7.6-hf",
+        "orbwalker issues fixed"
+      ]
+    },
+    {
+      "md5": [
+        "f911c730b8f783f6cfcc96706310a177"
+      ],
+      "build": "611",
+      "changes": [
+        "crashes fixed"
+      ]
+    },
+    {
+      "md5": [
+        "3d723ae88a3c86164a530d4cdf6d65ba"
+      ],
+      "build": "615",
+      "changes": [
+        "updated for patch 7.8",
+        "various API fixes"
+      ]
+    },
+    {
+      "md5": [
+        "d4b71bb951850b56f86a8d57a2b511ec"
+      ],
+      "build": "616",
+      "changes": [
+        "Fixed Crashes for Windows 7 users"
+      ]
+    },
+    {
+      "md5": [
+        "64c36e00c54f9482dcdc8d14318e298b"
+      ],
+      "build": "620",
+      "changes": [
+        "API fixes"
+      ]
+    },
+    {
+      "md5": [
+        "64c36e00c54f9482dcdc8d14318e298b"
+      ],
+      "build": "621",
+      "changes": [
+        "updated for 7.8-hf"
+      ]
+    },
+    {
+      "md5": [
+        "58eb329dd79bca007ee4cd2f741448db"
+      ],
+      "build": "640",
+      "changes": [
+        "updated for patch 7.9"
+      ]
     }
   ]
 }
